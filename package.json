@@ -1,6 +1,22 @@
 {
-  "name": "martinleo",
+  "name": "image-hosting-service",
   "version": "1.0.0",
   "description": "Somewhere to save the file from @martinleo",
-  "author": "LMZ(@martinleo)"
+  "author": "LMZ (@martinleo)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinLiuMingZhi/Image-Hosting-Service.git"
+  },
+  "keywords": [
+    "image-hosting-service"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MartinLiuMingZhi/Image-Hosting-Service/issues"
+  },
+  "homepage": "https://github.com/MartinLiuMingZhi/Image-Hosting-Service#readme"
 }
