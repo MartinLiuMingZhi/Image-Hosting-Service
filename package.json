@@ -1,6 +1,6 @@
 {
   "name": "image-hosting-service",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Somewhere to save the file from @martinleo",
   "author": "LMZ (@martinleo)",
   "main": "index.js",
